@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lucky-zeros-dashboard/static/css/main.4cace58d.chunk.css",
-    "main.js": "/lucky-zeros-dashboard/static/js/main.6fafe438.chunk.js",
-    "main.js.map": "/lucky-zeros-dashboard/static/js/main.6fafe438.chunk.js.map",
+    "main.js": "/lucky-zeros-dashboard/static/js/main.ac5d92a5.chunk.js",
+    "main.js.map": "/lucky-zeros-dashboard/static/js/main.ac5d92a5.chunk.js.map",
     "runtime-main.js": "/lucky-zeros-dashboard/static/js/runtime-main.9d3309b7.js",
     "runtime-main.js.map": "/lucky-zeros-dashboard/static/js/runtime-main.9d3309b7.js.map",
     "static/js/2.85900998.chunk.js": "/lucky-zeros-dashboard/static/js/2.85900998.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.9d3309b7.js",
     "static/js/2.85900998.chunk.js",
     "static/css/main.4cace58d.chunk.css",
-    "static/js/main.6fafe438.chunk.js"
+    "static/js/main.ac5d92a5.chunk.js"
   ]
 }
