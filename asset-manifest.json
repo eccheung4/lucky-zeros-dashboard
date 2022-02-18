@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/nft-dashboard-template/static/css/main.0922b6e7.chunk.css",
-    "main.js": "/nft-dashboard-template/static/js/main.620d2638.chunk.js",
-    "main.js.map": "/nft-dashboard-template/static/js/main.620d2638.chunk.js.map",
-    "runtime-main.js": "/nft-dashboard-template/static/js/runtime-main.c210edee.js",
-    "runtime-main.js.map": "/nft-dashboard-template/static/js/runtime-main.c210edee.js.map",
-    "static/js/2.95faa9b3.chunk.js": "/nft-dashboard-template/static/js/2.95faa9b3.chunk.js",
-    "static/js/2.95faa9b3.chunk.js.map": "/nft-dashboard-template/static/js/2.95faa9b3.chunk.js.map",
-    "index.html": "/nft-dashboard-template/index.html",
-    "static/css/main.0922b6e7.chunk.css.map": "/nft-dashboard-template/static/css/main.0922b6e7.chunk.css.map",
-    "static/js/2.95faa9b3.chunk.js.LICENSE.txt": "/nft-dashboard-template/static/js/2.95faa9b3.chunk.js.LICENSE.txt",
-    "static/media/Back.8af6b2fe.svg": "/nft-dashboard-template/static/media/Back.8af6b2fe.svg",
-    "static/media/Covalent-Background_5.cc7bc02b.jpg": "/nft-dashboard-template/static/media/Covalent-Background_5.cc7bc02b.jpg",
-    "static/media/App.css": "/nft-dashboard-template/static/media/alert.6e5425f9.svg",
-    "static/media/banner.e7e48588.png": "/nft-dashboard-template/static/media/banner.e7e48588.png",
-    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/nft-dashboard-template/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
-    "static/media/logo.00ecc9d5.svg": "/nft-dashboard-template/static/media/logo.00ecc9d5.svg"
+    "main.css": "/lucky-zeros-dashboard/static/css/main.4cace58d.chunk.css",
+    "main.js": "/lucky-zeros-dashboard/static/js/main.6fafe438.chunk.js",
+    "main.js.map": "/lucky-zeros-dashboard/static/js/main.6fafe438.chunk.js.map",
+    "runtime-main.js": "/lucky-zeros-dashboard/static/js/runtime-main.9d3309b7.js",
+    "runtime-main.js.map": "/lucky-zeros-dashboard/static/js/runtime-main.9d3309b7.js.map",
+    "static/js/2.85900998.chunk.js": "/lucky-zeros-dashboard/static/js/2.85900998.chunk.js",
+    "static/js/2.85900998.chunk.js.map": "/lucky-zeros-dashboard/static/js/2.85900998.chunk.js.map",
+    "index.html": "/lucky-zeros-dashboard/index.html",
+    "static/css/main.4cace58d.chunk.css.map": "/lucky-zeros-dashboard/static/css/main.4cace58d.chunk.css.map",
+    "static/js/2.85900998.chunk.js.LICENSE.txt": "/lucky-zeros-dashboard/static/js/2.85900998.chunk.js.LICENSE.txt",
+    "static/media/Back.8af6b2fe.svg": "/lucky-zeros-dashboard/static/media/Back.8af6b2fe.svg",
+    "static/media/Covalent-Background_5.cc7bc02b.jpg": "/lucky-zeros-dashboard/static/media/Covalent-Background_5.cc7bc02b.jpg",
+    "static/media/App.css": "/lucky-zeros-dashboard/static/media/alert.6e5425f9.svg",
+    "static/media/banner.e7e48588.png": "/lucky-zeros-dashboard/static/media/banner.e7e48588.png",
+    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/lucky-zeros-dashboard/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
+    "static/media/logo.00ecc9d5.svg": "/lucky-zeros-dashboard/static/media/logo.00ecc9d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c210edee.js",
-    "static/js/2.95faa9b3.chunk.js",
-    "static/css/main.0922b6e7.chunk.css",
-    "static/js/main.620d2638.chunk.js"
+    "static/js/runtime-main.9d3309b7.js",
+    "static/js/2.85900998.chunk.js",
+    "static/css/main.4cace58d.chunk.css",
+    "static/js/main.6fafe438.chunk.js"
   ]
 }
